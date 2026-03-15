@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フィクションブルー",
+  "base_artist": "Ayase",
+  "createdAt": "2026-03-15T03:49:22.324545Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フィクションブルー",
+      "artist": "Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_フィクションブルー_Ayase.txt"
+    }
+  ]
+}
